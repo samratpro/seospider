@@ -2,9 +2,11 @@
 
 A fast and lightweight desktop SEO auditing tool developed by **SEOFORVA**.
 
-SEO Spider helps SEO professionals, marketers, agencies, and website owners quickly crawl websites, identify technical SEO issues, and analyze on-page elements to improve search engine visibility.
+SEO Spider helps SEO professionals, marketers, agencies, and website owners crawl websites, identify technical SEO issues, and improve search engine visibility.
 
-> ⚠️ Source code is not publicly available. This repository is used to distribute official releases only.
+> ✅ **Free to use**
+>
+> 🔒 **Not open source** — The software is distributed as freeware, but the source code is private.
 
 ---
 
@@ -20,7 +22,7 @@ SEO Spider helps SEO professionals, marketers, agencies, and website owners quic
 - HTTP status code reporting
 - Redirect analysis
 - Canonical tag detection
-- Image analysis
+- Image SEO analysis
 - Robots & indexing checks
 - Export reports
 
@@ -30,35 +32,21 @@ More features are added regularly.
 
 ## 📥 Download
 
-Download the latest version from the GitHub **Releases** page.
+Download the latest version from the **Releases** page.
 
 ➡️ https://github.com/samratpro/seospider/releases
 
----
+Or visit the official product page:
 
-## 🌐 Official Website
-
-Learn more about SEO Spider:
-
-**https://seoforva.com/tools/seo-spider**
+➡️ https://seoforva.com/tools/seo-spider
 
 ---
 
-## 🏢 About SEOFORVA
+## 🌐 About SEOFORVA
 
-SEOFORVA is a Virginia-based Local SEO agency focused on helping businesses improve their visibility in Google Search and Google Maps.
+SEOFORVA is a Virginia-based Local SEO agency helping businesses improve their visibility in Google Search and Google Maps through ethical, data-driven SEO.
 
-Our services include:
-
-- Local SEO
-- Technical SEO
-- Google Business Profile Optimization
-- Website SEO Audits
-- Citation Management
-- On-Page SEO
-- Local Link Building
-
-Visit us:
+Learn more:
 
 https://seoforva.com
 
@@ -66,14 +54,18 @@ https://seoforva.com
 
 ## 🤝 Support
 
-If you encounter a bug or have a feature request, please open an Issue in this repository.
+Found a bug or have a feature request?
+
+Please open an **Issue** in this repository.
 
 ---
 
 ## 📄 License
 
-This repository contains release files only.
+SEO Spider is **freeware**.
 
-The software is proprietary and copyrighted by SEOFORVA. Redistribution, modification, or reverse engineering is prohibited without written permission.
+You are welcome to download and use the software free of charge.
+
+The source code is **not publicly available**, and this project is **not open source**. Redistribution, modification, reverse engineering, or commercial resale is prohibited without prior written permission from SEOFORVA.
 
 © SEOFORVA. All Rights Reserved.
